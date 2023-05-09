@@ -1,9 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vast)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vast?style=social)
+ 
   ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vast?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
+ 
   [![YouTube Video Views](https://img.shields.io/youtube/views/igNpJ21Hglk?style=social)](https://youtu.be/igNpJ21Hglk)
 
   <br />
